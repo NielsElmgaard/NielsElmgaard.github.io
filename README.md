@@ -12,7 +12,7 @@
 ## 📊 GitHub Stats
 
 ![Niels's Stats](https://github-readme-stats-one.vercel.app/api?username=NielsElmgaard&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NielsElmgaard&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=NielsElmgaard&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
