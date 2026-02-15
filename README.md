@@ -12,8 +12,7 @@
 ## 📊 GitHub Stats
 
 ![Niels's Stats](https://github-readme-stats-one.vercel.app/api?username=NielsElmgaard&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=NielsElmgaard&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=NielsElmgaard&layout=compact&theme=dark&langs_count=8)
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niels-kjeldbjerg-7845022a7/)
